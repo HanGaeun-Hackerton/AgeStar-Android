@@ -1,2 +1,2 @@
-# Age_Star_Android
-Team - HanGaeun Android Repository
+# AgeSta-Android
+Team-HanGaeun Android Repository
